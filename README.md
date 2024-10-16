@@ -18,6 +18,8 @@ Welcome to the **Stat Game**! The goal is simple: raise one of your stats (Stren
    - Each stat decrease is a random amount between 0 and 2.
    - The game ends when one of the stats reaches 10 (you win!) or you quit.
 
+
+
 3. **Commands**:
    - On each turn, you'll be prompted to choose a number corresponding to the stat you want to raise:
      - **1**: Increase Strength
